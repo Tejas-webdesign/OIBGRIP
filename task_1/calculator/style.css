@@ -4,7 +4,7 @@ html {
     align-items: center;
     justify-content: center;
     background-color: #2d3436;
-    background-image: linear-gradient(315deg, #2d3436 0%, #000000 74%);
+    background-image: linear-gradient(315deg, #06341a 0%, #000000 74%);
     font-family: 'Cookie', cursive;
 }
 
@@ -16,6 +16,11 @@ html {
     text-align: center;
     color: red;
     font-family: 'Cookie', cursive;
+}
+
+h1 {
+    color: rgb(114, 172, 222);
+    font-family: sans-serif, bold;
 }
 
 input[type=button] {
