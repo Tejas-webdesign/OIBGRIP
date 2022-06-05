@@ -18,7 +18,10 @@ html {
     font-family: 'Cookie', cursive;
 }
 
-
+h1 {
+    color: rgb(114, 172, 222);
+    font-family: sans-serif, bold;
+}
 
 input[type=button] {
     width: 60px;
